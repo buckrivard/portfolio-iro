@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: ""
-url: https://buckrivard.github.io/
+url: https://buckrivard.github.io/portfolio-iro/
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
